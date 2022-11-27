@@ -14,7 +14,7 @@ body{
 }
 .box{
     background: #fff;
-    border: radius 8px;
+    border-radius: 8px;
      padding: 20px 40px 0;
      width: 600px;
      height: 410px;
